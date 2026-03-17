@@ -1,0 +1,14 @@
+C:\Users\natas\source\repos\Repetition2\bin\Debug\net10.0\Repetition2.exe
+C:\Users\natas\source\repos\Repetition2\bin\Debug\net10.0\Repetition2.deps.json
+C:\Users\natas\source\repos\Repetition2\bin\Debug\net10.0\Repetition2.runtimeconfig.json
+C:\Users\natas\source\repos\Repetition2\bin\Debug\net10.0\Repetition2.dll
+C:\Users\natas\source\repos\Repetition2\bin\Debug\net10.0\Repetition2.pdb
+C:\Users\natas\source\repos\Repetition2\obj\Debug\net10.0\Repetition2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natas\source\repos\Repetition2\obj\Debug\net10.0\Repetition2.AssemblyInfoInputs.cache
+C:\Users\natas\source\repos\Repetition2\obj\Debug\net10.0\Repetition2.AssemblyInfo.cs
+C:\Users\natas\source\repos\Repetition2\obj\Debug\net10.0\Repetition2.csproj.CoreCompileInputs.cache
+C:\Users\natas\source\repos\Repetition2\obj\Debug\net10.0\Repetition2.dll
+C:\Users\natas\source\repos\Repetition2\obj\Debug\net10.0\refint\Repetition2.dll
+C:\Users\natas\source\repos\Repetition2\obj\Debug\net10.0\Repetition2.pdb
+C:\Users\natas\source\repos\Repetition2\obj\Debug\net10.0\Repetition2.genruntimeconfig.cache
+C:\Users\natas\source\repos\Repetition2\obj\Debug\net10.0\ref\Repetition2.dll
