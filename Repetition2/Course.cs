@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -26,5 +26,20 @@ namespace Repetition2
             }
 
         }
+
+        public void PrintStudentsByAge(int age)
+        {
+        foreach (var student in Students)
+            {
+                if (student.Age > age)
+                {
+                    student.PrintInfo();
+                }
+            }
+
+
+        }
+
+
     }
 }
