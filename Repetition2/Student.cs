@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -15,7 +15,7 @@ namespace Repetition2
         }
         public void PrintInfo()
         {
-            Console.WriteLine($"Name: {Name}, Age: {Age}");
+            Console.WriteLine($"Name: {Name}, Age: {Age}"); //Konstruktør
         }
     }
 }
